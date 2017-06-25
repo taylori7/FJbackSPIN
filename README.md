@@ -1,5 +1,9 @@
-# FJbackSPIN
-Plugin for FlowJo using BackSPIN from Zeisel et al 2013. 
+# backSPIN
+
+A BiClustering Plugin for FlowJo
+Copyright 2017, Miguel Velazquez-Palafox & Ian Taylor
+
+# Using BackSPIN from Zeisel et al 2013. 
 
 # Copyright (c) 2015, Amit Zeisel, Gioele La Manno and Sten Linnarsson
 # All rights reserved.
