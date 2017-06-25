@@ -1,6 +1,7 @@
 # backSPIN
 
-A BiClustering Plugin for FlowJo, LLC
+A BiClustering Plugin for FlowJo, LLC.
+
 Copyright 2017, Miguel Velazquez-Palafox & Ian Taylor
 
 # Using BackSPIN algorithm from Zeisel et al 2013. 
